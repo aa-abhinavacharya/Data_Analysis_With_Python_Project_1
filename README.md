@@ -16,6 +16,8 @@
 
 5.Build plots to communicate key insights
 
-Python File with Questions for Data Preparation :- [Data_Prep_Questions](https://github.com/aa-abhinavacharya/Python_Foundations_For_Data_Analysis_Basic_Project/blob/main/maven_ski_shop_analysis.ipynb)
+Python File with Questions for Data Analysis using Pandas :- [Data_Analysis_Questions](https://github.com/aa-abhinavacharya/Data_Analysis_With_Python_Project_1/blob/main/Acquisition_Project_Questions.ipynb)
+
+Python File with Solutions for Data Analysis using Pandas :- [Data_Analysis_Solutions](https://github.com/aa-abhinavacharya/Data_Analysis_With_Python_Project_1/blob/main/Acquistion_Project_Solutions.ipynb)
 
 
