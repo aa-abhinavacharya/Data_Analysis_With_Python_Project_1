@@ -1,6 +1,6 @@
 # Project :- Maven MegaMart Acquisition Analysis
 
-### Note :- All the files used for data analysis are present in the repository. Project is prepared with the help of the course in Udemy [Python Data Analysis: NumPy & Pandas Masterclass](https://www.udemy.com/course/python-pandas/) by Maven Analytics. Datasets are present in the link [Link](https://drive.google.com/drive/u/0/folders/1LSaUhetg7Aq1411pQHI_w4qY7q_l-yzK)
+### Note :- All the files used for data analysis are present in the repository. Project is prepared with the help of the course in Udemy [Python Data Analysis: NumPy & Pandas Masterclass](https://www.udemy.com/course/python-pandas/) by Maven Analytics. Datasets are present in the link-[Link](https://drive.google.com/drive/u/0/folders/1LSaUhetg7Aq1411pQHI_w4qY7q_l-yzK).
 
 ### Project Brief :- Maven MegaMart is currently exploring the acquisition of another retail company as part of a strategic initiative to expand its market share. This potential acquisition has reached the due diligence phase, during which several datasets related to the target company's customer behavior and sales performance have been provided.
 
