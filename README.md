@@ -16,5 +16,6 @@
 
 5.Build plots to communicate key insights
 
+Python File with Questions for Data Preparation :- [Data_Prep_Questions](https://github.com/aa-abhinavacharya/Python_Foundations_For_Data_Analysis_Basic_Project/blob/main/maven_ski_shop_analysis.ipynb)
 
 
